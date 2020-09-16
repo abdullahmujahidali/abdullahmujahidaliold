@@ -16,7 +16,7 @@ const Common = (props) => {
                             <strong className="brand-name"> Abdullah Mujahid </strong>
                             </h1>
                             <h2 className="my-3">
-                                Have been programming for 6 years on multiple platform worked mainly on Python and JS
+                               Into the ocean for about 6 years and worked on multiple platform favourites are Python and JS
                             </h2>
                             <div className="mt-3">
                             <NavLink to= {props.visit} className="btn-get-started">
