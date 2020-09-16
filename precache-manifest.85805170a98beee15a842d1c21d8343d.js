@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a62f6914ed9879752c04429e05ea7edb",
+    "revision": "2788a3763ade3a92fd0a013b0b79f492",
     "url": "/abdullahmujahidali.github.io/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/abdullahmujahidali.github.io/static/css/2.ea6b7726.chunk.css"
   },
   {
-    "revision": "285769f6e362da4aba91",
+    "revision": "a680b523483985f0a628",
     "url": "/abdullahmujahidali.github.io/static/css/main.9e08719e.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/abdullahmujahidali.github.io/static/js/2.cfede279.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "285769f6e362da4aba91",
-    "url": "/abdullahmujahidali.github.io/static/js/main.f36d7fb8.chunk.js"
+    "revision": "a680b523483985f0a628",
+    "url": "/abdullahmujahidali.github.io/static/js/main.e9155310.chunk.js"
   },
   {
     "revision": "734c5d1f67ec1c391b00",

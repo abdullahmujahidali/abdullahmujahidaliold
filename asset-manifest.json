@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/abdullahmujahidali.github.io/static/css/main.9e08719e.chunk.css",
-    "main.js": "/abdullahmujahidali.github.io/static/js/main.f36d7fb8.chunk.js",
-    "main.js.map": "/abdullahmujahidali.github.io/static/js/main.f36d7fb8.chunk.js.map",
+    "main.js": "/abdullahmujahidali.github.io/static/js/main.e9155310.chunk.js",
+    "main.js.map": "/abdullahmujahidali.github.io/static/js/main.e9155310.chunk.js.map",
     "runtime-main.js": "/abdullahmujahidali.github.io/static/js/runtime-main.ed0a4bd0.js",
     "runtime-main.js.map": "/abdullahmujahidali.github.io/static/js/runtime-main.ed0a4bd0.js.map",
     "static/css/2.ea6b7726.chunk.css": "/abdullahmujahidali.github.io/static/css/2.ea6b7726.chunk.css",
     "static/js/2.cfede279.chunk.js": "/abdullahmujahidali.github.io/static/js/2.cfede279.chunk.js",
     "static/js/2.cfede279.chunk.js.map": "/abdullahmujahidali.github.io/static/js/2.cfede279.chunk.js.map",
     "index.html": "/abdullahmujahidali.github.io/index.html",
-    "precache-manifest.ee5e27b3bc8c173cf9175a18024485ff.js": "/abdullahmujahidali.github.io/precache-manifest.ee5e27b3bc8c173cf9175a18024485ff.js",
+    "precache-manifest.85805170a98beee15a842d1c21d8343d.js": "/abdullahmujahidali.github.io/precache-manifest.85805170a98beee15a842d1c21d8343d.js",
     "service-worker.js": "/abdullahmujahidali.github.io/service-worker.js",
     "static/css/2.ea6b7726.chunk.css.map": "/abdullahmujahidali.github.io/static/css/2.ea6b7726.chunk.css.map",
     "static/css/main.9e08719e.chunk.css.map": "/abdullahmujahidali.github.io/static/css/main.9e08719e.chunk.css.map",
@@ -28,6 +28,6 @@
     "static/css/2.ea6b7726.chunk.css",
     "static/js/2.cfede279.chunk.js",
     "static/css/main.9e08719e.chunk.css",
-    "static/js/main.f36d7fb8.chunk.js"
+    "static/js/main.e9155310.chunk.js"
   ]
 }
